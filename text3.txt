@@ -1,1 +1,0 @@
-created the text3.txt file in git folder
